@@ -1,0 +1,24 @@
+{
+  "name": "@axanet/natgold-api-model",
+  "version": "1.0.0",
+  "main": "dist/index.d.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "natgold",
+    "natgold-api",
+    "natgold-api-model"
+  ],
+  "author": "axanet",
+  "license": "MIT",
+  "description": "Provides types for the Natgold API",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2"
+  }
+}
