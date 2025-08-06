@@ -5,8 +5,11 @@
     "emitDeclarationOnly": true,
     "strict": true,
     "esModuleInterop": true,
+    "moduleResolution": "Node",
     "module": "ESNext",
-    "target": "ESNext"
+    "target": "ESNext",
+    "baseUrl": "src",
+    "rootDir": "src"
   },
   "include": ["src"]
 }

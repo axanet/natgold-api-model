@@ -1,4 +1,4 @@
-import { DEFAULT_DIFFERENCES_VO, Differences } from "./shared/differences";
+import { DEFAULT_DIFFERENCES_VO, Differences } from "vos/shared/differences";
 
 /**
  * A Natgold snapshot value object containing price information.

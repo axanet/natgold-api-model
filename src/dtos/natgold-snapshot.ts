@@ -1,7 +1,7 @@
 import {
   DEFAULT_NATGOLD_SNAPSHOT_VO,
   NatgoldSnapshot,
-} from "../vos/natgold-snapshot";
+} from "vos/natgold-snapshot";
 
 /**
  * A DTO containing multiple Natgold snapshots
